@@ -1,0 +1,38 @@
+.App {
+    width: 1024px;
+    height: 768px;
+    text-align: center;
+}
+
+.Menu-Ul-App-Nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    color: white;
+    text-decoration-line: none;
+}
+
+.Il-Menu-Nav-App {
+    display: flex;
+    background-color: #7B95A3;
+    border-color: #7B95A3;
+    margin-left: 5px;
+    border-width: 2px;
+    list-style: none;
+    color: white;
+    font-size: 30px;
+    text-decoration-line: none;
+}
+
+.MenuActive {
+    background-color: #AFD3C8;
+    border-color: #AFD3C8;
+    border-width: 2px;
+    list-style: none;
+    color: white;
+    font-size: 35px;
+    text-decoration: none
+}
+
+
